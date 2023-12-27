@@ -1,0 +1,23 @@
+[
+    {
+        "id": 2,
+        "name": "Tipu Sultan",
+        "age": 24,
+        "grad": 6,
+        "subject": ["mathemetics", "Urdu", "Arbi","English"]
+    },
+    {
+        "id": 3,
+        "name": "Afzal khan",
+        "age": 30,
+        "grad": 8,
+        "subject": ["mathemetics","hindi", "physics", "English"]
+    },
+    {
+        "id": 4,
+        "name": "Abubakar khan",
+        "age": 20,
+        "grad": 9,
+        "subject": ["mathemetics", "History","physics", "English"]
+    }
+]
